@@ -1,0 +1,13 @@
+code: page11_p
+parentCode: page1_p
+titles:
+  en: page11-p
+  it: page11-p
+pageModel: content-page
+ownerGroup: administrators
+joinGroups: []
+displayedInMenu: true
+seo: false
+charset: utf-8
+status: unpublished
+widgets: []

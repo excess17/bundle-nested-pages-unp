@@ -1,0 +1,10 @@
+code: bundle-pages-unp
+description: bundle-pages-bundle-unp
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  pages:
+    - pages/page1_p-descriptor.yaml
+    - pages/page11_p-descriptor.yaml
+    - pages/page111_p-descriptor.yaml
+    - pages/page12_p-descriptor.yaml
